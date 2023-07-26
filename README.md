@@ -19,7 +19,7 @@
 # モジュールのインストール方法
 
 ```
-python3.10 -m pip install Pillow==9.3.0 pycord
+python3.10 -m pip install Pillow==9.3.0 py-cord
 ```
 
 # 動作方法
